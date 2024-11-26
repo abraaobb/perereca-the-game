@@ -65,7 +65,7 @@ let speedIncrease = 0
 let car: Sprite = null
 let direction = 0
 // MENSAGEM INICIAL
-game.splash("Bem-vindo ao perereca game!")
+game.splash("Bem-vindo ao Perereca: the game!")
 game.splash("Ajude a nossa perereca a", "se desviar dos perigos urbano")
 game.splash("Use as setas para se mover", "até chegar ao outro lado")
 scene.setBackgroundImage(img`
